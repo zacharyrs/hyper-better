@@ -1,0 +1,15 @@
+{
+  "description": "A few fixes for hyper (reverts tabs style, and fixes traffic lights).",
+  "name": "hyper-better",
+  "version": "0.0.1",
+  "keywords": [
+    "hyper",
+    "hyper.app"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharyrs/hyper-better.git"
+  },
+  "dependencies": {}
+}
