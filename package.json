@@ -1,7 +1,7 @@
 {
   "name": "hyper-better",
   "description": "A few fixes for hyper (reverts tabs style, and fixes traffic lights).",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [
     "hyper",
     "hyper.app"
