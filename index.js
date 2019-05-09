@@ -14,7 +14,6 @@ const brightBlack = '#999999'
 const brightWhite = '#ffffff'
 
 const darkBackgroundColor = '#20222b'
-const cursorColor = 'rgba(248,28,229,0.75)'
 const borderColor = '#44475a'
 
 exports.decorateBrowserOptions = config => {
@@ -40,7 +39,7 @@ exports.decorateConfig = config => {
     backgroundColor,
     foregroundColor,
     borderColor: black,
-    cursorColor,
+    cursorColor: brightBlack,
     colors: {
       black,
       red,
